@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# heading1
+## heading2
+###### heading6
+**boldtext**
+*italictext*
